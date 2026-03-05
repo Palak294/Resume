@@ -33,6 +33,6 @@ Committed to clear technical documentation and agile development practices.
 
 ## Education
 ### Bachelor of Science, Computer Science | University of Manitoba
-* Year 2025    
+* Year 2025  
 * **Relevant Coursework:** Technical Communication (COMP 2600), Data Structures & Algorithms, Software Engineering.
 * **Key Learning:** Focused on applying agile methodologies to real-world software problems.
