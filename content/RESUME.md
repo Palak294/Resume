@@ -20,7 +20,7 @@ Committed to clear technical documentation and agile development practices.
 ## Professional Experience
 
 ### Junior Software Developer | Foomatic Inc.  
-* 1st January 2026 – Present
+
 * **Contribute** To the maintenance and optimization of route-planning algorithms for multi-week delivery logistics.
 * **Collaborate** With senior engineers to assess the technical debt of current legacy systems in preparation for upcoming service overhauls.
 * **Assist** In the design phase of a RESTful API to expose internal route-planning logic to external business partners.
@@ -33,6 +33,5 @@ Committed to clear technical documentation and agile development practices.
 
 ## Education
 ### Bachelor of Science, Computer Science | University of Manitoba  
-* Year 2025
 * **Relevant Coursework:** Technical Communication (COMP 2600), Data Structures & Algorithms, Software Engineering.
 * **Key Learning:** Focused on applying agile methodologies to real-world software problems.
